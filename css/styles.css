@@ -101,7 +101,8 @@ p, ul {
 h3 {
   font-size: 12px;
   color: black;
-  text-decoration: underline;
+  border-bottom: thin solid black;
+  padding: 2px;
 }
 
 .sidebar > ul {
@@ -113,15 +114,13 @@ h3 {
 }
 
 #left_tabs {
-  text-align: center;
+  margin-left: 180px;
 }
 
 #right_tabs {
-  float: right;
-  margin-right: 200px;
+  margin-left: 100px;
 }
 
 .search {
   float: right;
-  margin-left;
 }
