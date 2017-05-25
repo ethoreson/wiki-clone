@@ -1,0 +1,63 @@
+body {
+  padding: 10px;
+}
+
+h2 {
+  font-weight: bold;
+}
+
+.jumbotron {
+  padding: 10px;
+}
+
+.jumbotron h1 {
+  font-size: 24px;
+}
+
+.jumbotron p {
+  font-size: 12px;
+}
+
+.jumbotron ul {
+  color: blue;
+}
+
+.bg-purple {
+  padding: 10px;
+  background-color: #E5D9FE;
+}
+
+#monastery {
+  height: 400px;
+  width: 300px;
+  float: left;
+}
+
+#logo {
+  height: 100px;
+  width: 100px;
+}
+
+.panel-title-blue {
+  background-color: #ABCDDB;
+  font-size: 18px;
+  padding: 2px;
+}
+
+.panel-title-green {
+  background-color: #BDDBAB;
+  font-size: 18px;
+  padding: 2px;
+}
+
+.sidebar {
+  color: blue;
+}
+
+.bg-purple {
+  height: 450px;
+}
+
+.bg-purple p {
+  padding-top: 150px;
+}
