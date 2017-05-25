@@ -12,7 +12,6 @@ p, ul {
   line-height: 1.6em;
 }
 
-
 .jumbotron {
   padding: 10px;
 }
@@ -107,4 +106,22 @@ h3 {
 
 .sidebar > ul {
   list-style-type: none;
+}
+
+#erase {
+  color: white;
+}
+
+#left_tabs {
+  text-align: center;
+}
+
+#right_tabs {
+  float: right;
+  margin-right: 200px;
+}
+
+.search {
+  float: right;
+  margin-left;
 }
