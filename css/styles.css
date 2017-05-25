@@ -1,5 +1,7 @@
 body {
-  padding: 10px;
+  padding: 12px;
+  margin-left: 12px;
+  margin-right: 12px;
 }
 
 h2 {
@@ -27,6 +29,30 @@ h2 {
   background-color: #E5D9FE;
 }
 
+#coin {
+  height: 50%;
+  width: 50%;
+  float: left;
+}
+
+#duterte {
+  height: 40%;
+  width: 40%;
+  float: right;
+}
+
+#miracle {
+  height: 50%;
+  width: 50%;
+  float: right;
+}
+
+#poster {
+  height: 50%;
+  width: 50%;
+  float: right;
+}
+
 #monastery {
   height: 400px;
   width: 300px;
@@ -52,10 +78,16 @@ h2 {
 
 .sidebar {
   color: blue;
+  background-color: lightgrey;
 }
 
 .bg-purple {
   height: 450px;
+}
+
+.panel-title-purple {
+  background-color: #BFABDB;
+  font-size: 18px;
 }
 
 .bg-purple p {
