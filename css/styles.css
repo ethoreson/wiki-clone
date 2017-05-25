@@ -8,6 +8,11 @@ h2 {
   font-weight: bold;
 }
 
+p, ul {
+  line-height: 1.6em;
+}
+
+
 .jumbotron {
   padding: 10px;
 }
@@ -92,4 +97,14 @@ h2 {
 
 .bg-purple p {
   padding-top: 150px;
+}
+
+h3 {
+  font-size: 12px;
+  color: black;
+  text-decoration: underline;
+}
+
+.sidebar > ul {
+  list-style-type: none;
 }
